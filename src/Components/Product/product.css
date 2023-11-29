@@ -1,0 +1,20 @@
+button-prdt {
+
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button-prdt:hover {
+    background-color: #333;
+
+    color: white;
+
+}
