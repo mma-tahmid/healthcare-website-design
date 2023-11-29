@@ -18,3 +18,8 @@ button-prdt:hover {
     color: white;
 
 }
+
+.card-img-top {
+    width: 65% !important;
+
+}

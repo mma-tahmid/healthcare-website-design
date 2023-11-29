@@ -57,11 +57,15 @@ const Header = () => {
 
 
                         <div className="col-3 margin">
-                            <button className="button-one"> <FaArrowRight /> Start the Quiz </button>
+                            {/* <button className="button-one"> <FaArrowRight /> Start the Quiz </button> */}
 
-                            <div className="d-flex gap-4 start-quiz">
+                            {/* <div className="d-flex gap-4 start-quiz">
                                 <h1> 1151 </h1>
                                 <div> People completed <br /> the quiz today</div>
+                            </div> */}
+
+                            <div className="mx-5">
+                                <img className="img-fluid" src="https://i.ibb.co/mhm2pJv/pg.jpg" alt="" />
                             </div>
 
                         </div>

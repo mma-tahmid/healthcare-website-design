@@ -50,7 +50,7 @@
 
 .start-quiz {
 
-    background-color: yellowgreen;
+    background-color: yellow;
 
 }
 
@@ -64,3 +64,8 @@
         height: 50px;
     }
 }
+
+/* .card-img-top {
+    width: 65% !important;
+
+} */
